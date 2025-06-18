@@ -1,0 +1,18 @@
+{
+  "fnmods_update": [
+    {
+ "version":"2.1",
+ "title":"Atualização disponível",
+ "description":"KS INSTA V2.1
+
+Base: 2.23 1.76
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+Faça download da nova versão
+
+ Actualización AntiBaneo disponible ",
+"download":"https://www.mediafire.com/file/nn33mqaeet005o1/KS_Insta_%25E2%259A%25A1V2.0_sign_sign.apk/file"
+}
+  ]
+}
