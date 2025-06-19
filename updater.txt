@@ -3,7 +3,7 @@
     {
  "version":"2.1",
  "title":"Atualização disponível",
- "description":"KS INSTA V2.1
+ "description":"KS INSTA V2.2"
 
 Base: 2.23 1.76
 
